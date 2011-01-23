@@ -34,3 +34,6 @@ httpd.parse.errors
 deploy
 deploy/*
 *.Publish.xml
+
+# git merge file
+*.orig
